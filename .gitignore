@@ -1,0 +1,27 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node / Electron
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Executáveis
+*.exe
+*.msi
+*.bat
+*.ps1
+
+# Logs
+*.log
+
+# Configs locais
+.env
+config_local.json
